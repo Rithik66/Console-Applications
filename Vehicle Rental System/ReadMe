@@ -1,22 +1,29 @@
-ADMIN -
+#LIBRARY
 
-      Username : admin
+*****************************************  ADMIN  *************************************
+
+ADMIN LOGIN -
+      Username : adminvrs@gmail.com
       Password : 12345
       
-VENDOR/MERCHANT - 
+ADMIN FUNCTIONS - 
+      1. Add an Vehicle
+      2. Modify Vehicle
+      3. View All Vehicle
+      4. View Vehicle to Service
+      4. View Vehicle Sorted by Rent
+      5. View Vehicle by Rented/Non Rented
+      
+***************************************  BORROWERER  **********************************
+ 
+ BORROWER FUNCTION - 
+      1. SignUp (Create an Account)
+      2. SignIn
+      3. View All Books and add to wishlist
+      4. View Wishlist
+      5. Add money to wallet
+      6. View Wallet
+      7. Return Car
+      8. View Previous Rents
 
-      Initial Vendors (4)(username - password)
-          1.babu - 1234
-          2.ramu - 1244
-          3.sedhu - 2134
-          4.achu - 2143
- 
- CUSTOMER - 
- 
-      Initial Customers (6)  [username - password - (amount in wallet)]
-          1.rithik - 1234 - (12000)
-          2.raghul - 1324 - (13000)
-          3.vishnu - 4132 - (14000)
-          4.moune - 3214 - (15000)
-          5.survesh - 2314 - (16000)
-          6.naresh - 2431 - (17000)
+ ********************************************************************************
