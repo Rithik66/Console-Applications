@@ -1,22 +1,25 @@
-ADMIN -
-
-      Username : admin
-      Password : 12345
+#SPLITWISE
       
-VENDOR/MERCHANT - 
+***************************************  FRIEND  **********************************
+ FRIEND LOGIN - 
+      (Username - Password - Mobile - Email - Balance)
+        rithik  - 1234 - 9489771170 - abc@gmail.com - 1200
+        raghul  - 4321 - 7824912352 - acb@gmail.com - 1500
+        vishnu  - 1243 - 6385505455 - bac@gmail.com - 1450
+        survesh - 4312 - 9659452070 - bca@gmail.com - 1700
+        naresh  - 2143 - 9944476007 - cab@gmail.com - 1690
+        moune   - 3412 - 8903453907 - cba@gmail.com - 1470
+ 
+ FRIEND FUNCTION - 
+      1. SignUp (Create an Account)
+      2. SignIn
+      3. Add Expenses 
+      4. View your Expenses
+      5. Amount to be payed
+      6. Amount to recieve
+      7. Add money to wallet
+      8. View wallet
+      9. Create a Group
+      10.View Transactions
 
-      Initial Vendors (4)(username - password)
-          1.babu - 1234
-          2.ramu - 1244
-          3.sedhu - 2134
-          4.achu - 2143
- 
- CUSTOMER - 
- 
-      Initial Customers (6)  [username - password - (amount in wallet)]
-          1.rithik - 1234 - (12000)
-          2.raghul - 1324 - (13000)
-          3.vishnu - 4132 - (14000)
-          4.moune - 3214 - (15000)
-          5.survesh - 2314 - (16000)
-          6.naresh - 2431 - (17000)
+ **********************************************************************************

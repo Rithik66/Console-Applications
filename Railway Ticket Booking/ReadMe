@@ -1,22 +1,15 @@
-ADMIN -
+#RAILWAY
 
-      Username : admin
-      Password : 12345
-      
-VENDOR/MERCHANT - 
+***************************************  USER  **********************************
+ 
+USER FUNCTION - 
+      1. User Signup (Creating a account)
+      2. User Login
+      3. Check route
+      4. Check seats
+      5. Book Tickets
+      6. Cancel Tickets
+      7. View My Tickets
+      8. Check Availability
 
-      Initial Vendors (4)(username - password)
-          1.babu - 1234
-          2.ramu - 1244
-          3.sedhu - 2134
-          4.achu - 2143
- 
- CUSTOMER - 
- 
-      Initial Customers (6)  [username - password - (amount in wallet)]
-          1.rithik - 1234 - (12000)
-          2.raghul - 1324 - (13000)
-          3.vishnu - 4132 - (14000)
-          4.moune - 3214 - (15000)
-          5.survesh - 2314 - (16000)
-          6.naresh - 2431 - (17000)
+*********************************************************************************
