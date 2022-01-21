@@ -30,5 +30,11 @@ USER LOGIN -
       Moune   - 2413 -  18000.00 -  ra123 -  1234560 -  RBI
  
  USER FUNCTION - 
-      
+      1. Withdraw
+      2. Deposit
+      3. Check Balance
+      4. Change Pin
+      5. Transaction (INTER bank / INTRA bank)
+      6. Ministatement (Last 6)
+
  ********************************************************************************
