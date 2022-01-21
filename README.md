@@ -1,2 +1,4 @@
 #MINI APPLICATIONS
-Zoho Mini Applications
+
+
+Mini Applications file are in respective Foldeers
