@@ -119,7 +119,7 @@ public class Railway{
         System.out.println("1. Book Tickets");
         System.out.println("2. Cancel Tickets");
         System.out.println("3. ViewMyTickets");
-        System.out.println("4. Check Availabilty");
+        System.out.println("4. Check Availability");
         System.out.println("5. Exit");
         int a = scanner.nextInt();
         clear();

@@ -746,7 +746,8 @@ public class Library {
         s+=s;
     }
     public static void adm(){
-        admins.add(new Admin("admin","1234"));
+        admins.add(new Admin("admin","12345"));
+        admins.add(new Admin("manager","54321"));
     }
 }
 class Admin{
