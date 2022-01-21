@@ -1,4 +1,4 @@
 #MINI APPLICATIONS
 
 
-Mini Applications file are in respective Foldeers
+Mini Applications are in respective Foldeers
