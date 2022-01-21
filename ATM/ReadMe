@@ -4,13 +4,11 @@
 INITIAL BANK OF ATM MACHINE: RBI 
 
 ADMIN LOGIN -
-      1.
-      Username : admin
-      Password : 12345
+      1.Username : admin
+        Password : 12345
       
-      2.
-      Username : manager
-      Password : 54321
+      2.Username : manager
+        Password : 54321
       
 ADMIN FUNCTIONS - 
       1. Add Money in ATM
