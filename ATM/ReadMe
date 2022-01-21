@@ -20,14 +20,17 @@ ADMIN FUNCTIONS -
 ******************************************  USER  *************************************
 
 USER LOGIN - 
-      Initial Users (6) (Username - Password - Amount in account - IFSC - Account No - Bank Name)
+      Initial Users (6) 
       
-      Rithik - 1234 - 12000.00 - ra123 - 1234567 - RBI
-      Raghul - 4321 - 15000.00 - ra123 - 1234565 - RBI
-      Survesh - 1423 - 14500.00 - rb123 - 1234563 - SBI
-      Vishnu - 3241 - 11500.00 - rb123 - 1234561 - SBI
-      Naresh - 2314 - 15700.00 - ra123 - 1234569 - RBI
-      Moune - 2413 - 18000.00 - ra123 - 1234560 - RBI
+     (Username - Password - Amount in account - IFSC - Account No - Bank Name)
+      
+      Rithik  - 1234 -  12000.00 -  ra123 -  1234567 -  RBI
+      Raghul  - 4321 -  15000.00 -  ra123 -  1234565 -  RBI
+      Survesh - 1423 -  14500.00 -  rb123 -  1234563 -  SBI
+      Vishnu  - 3241 -  11500.00 -  rb123 -  1234561 -  SBI
+      Naresh  - 2314 -  15700.00 -  ra123 -  1234569 -  RBI
+      Moune   - 2413 -  18000.00 -  ra123 -  1234560 -  RBI
  
- 
+ USER FUNCTION - 
+      
  ********************************************************************************
