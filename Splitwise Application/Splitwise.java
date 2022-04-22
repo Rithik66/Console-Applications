@@ -70,7 +70,6 @@ public class Splitwise {
             trueLogin();
         }
         else{
-            System.out.println("--------------------------");
             System.out.println("Invalid credentials");
             System.out.println("--------------------------");
             enter();
@@ -322,7 +321,7 @@ class Friends{
     String name,number,password,email;
     double wallet;
     ArrayList<Pay> pay;
-    ArrayList<Expense> expenses; 
+    ArrayList<Expense> expenses;
     ArrayList<String> trans;
     Friends(String name,String password,String number,String email,ArrayList<Pay> pay,double wallet,ArrayList<Expense> expenses,ArrayList<String> trans){
         this.name=name;
